@@ -12,3 +12,7 @@ hr {
   border-width: 5px;
   width: 5%;
 }
+img {
+  height: 100px;
+  width: 100px;
+}
